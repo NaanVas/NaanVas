@@ -162,13 +162,11 @@ Me chamo Naan Vasconcelos, tenho 24 anos e sou natural de Minas Gerais. Atualmen
 
   <p align="left">
     <a href="https://github.com/guibitten03/iRev.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=guibitten03&repo=iRev&theme=dark&hide_border=trueshow_icons=false" alt="iRev"></a>
-  <p align="left">
     <a href="https://github.com/NaanVas/irec.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NaanVas&repo=irec&theme=dark&hide_border=trueshow_icons=false" alt="irec"></a>
-  <p align="left">
     <a href="https://github.com/henriquedalga/horas-ufsj.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=henriquedalga&repo=horas-ufsj&theme=dark&hide_border=trueshow_icons=false" alt="HorasUfsj"></a>
-  <p align="left">
     <a href="https://github.com/NaanVas/APS.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NaanVas&repo=APS&theme=dark&hide_border=trueshow_icons=false" alt="APS"></a>
-  <p align="left">
     <a href="https://github.com/NaanVas/Recommender.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NaanVas&repo=Recommender&theme=dark&hide_border=trueshow_icons=false" alt="Recommender"></a>
+   </p>   
+  <a href="https://github.com/NaanVas?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Clique%20Aqui%20Para%20Ver%20Todos%20Meus%20Repositórios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>   
 </details>
 
