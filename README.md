@@ -2,7 +2,7 @@
 
 **`Cientista de dados`**
 
-Me chamo Naan Vasconcelos, tenho 24 anos e sou natural de Minas Gerais. Atualmente, estou cursando Ciência da Computação na Universidade Federal de São João del Rei.
+Eu me chamo Naan Vasconcelos, tenho 24 anos e sou natural de Minas Gerais. Atualmente, estou cursando Ciência da Computação na Universidade Federal de São João del Rei.
 
 <p align="left">
        <a href="https://github.com/NaanVas?tab=repositories&sort=stargazers">
