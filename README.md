@@ -154,11 +154,11 @@ Me chamo Naan Vasconcelos, tenho 24 anos e sou natural de Minas Gerais. Atualmen
   />
 </p>
 
-<!-- limpa todos os floats para que o details venha abaixo -->
-<div style="clear: both;"></div>
 
-<details open style="clear: both; display: block; width: 100%;">
-  <summary><h2>📘 Meus Projetos e minhas contribuições</h2></summary>
+<br style="clear: both;" />
+
+<details open style="clear: both;">
+  <summary><h2>📘 Meus Projetos e contribuições</h2></summary>
 
   <p align="left">
     <a href="https://github.com/guibitten03/iRev.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=guibitten03&repo=iRev&theme=dark&hide_border=trueshow_icons=false" alt="iRev"></a>
