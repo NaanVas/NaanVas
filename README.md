@@ -156,12 +156,14 @@ Me chamo Naan Vasconcelos, tenho 24 anos e sou natural de Minas Gerais. Atualmen
 
 
 <br clear="both" />
-
+## 🐍 Atividade no GitHub
+<div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaanVas/NaanVas/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaanVas/NaanVas/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NaanVas/NaanVas/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
 
 <details open style="clear: both; display: block; width: 100;">
   <summary><h2>📘 Meus Projetos e contribuições</h2></summary>
