@@ -132,7 +132,11 @@ Eu me chamo Naan Vasconcelos, tenho 24 anos e sou natural de Minas Gerais. Atual
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"      
 />
 <br/>
+
+---
+
 ## Contacts
+
 <div>
   <a href="www.linkedin.com/in/naan-vasconcelos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
   <a href="mailto:naan.vasconcelos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="blank"></a>
@@ -140,6 +144,7 @@ Eu me chamo Naan Vasconcelos, tenho 24 anos e sou natural de Minas Gerais. Atual
 </div>
 
 <br/>
+
 
 ### 📊 Estatísticas
 
