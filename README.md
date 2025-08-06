@@ -132,12 +132,6 @@ Me chamo Naan Vasconcelos, tenho 24 anos e sou natural de Minas Gerais. Atualmen
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"      
 />
 
-
-          
-
-
-
-
 <br/>
 <br/>
 
@@ -158,5 +152,23 @@ Me chamo Naan Vasconcelos, tenho 24 anos e sou natural de Minas Gerais. Atualmen
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaanVas&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
+
+<!-- limpa todos os floats para que o details venha abaixo -->
+<div style="clear: both;"></div>
+
+<details open> 
+  <summary><h2>📘 Meus Projetos e minhas contribuições</h2></summary>
+
+  <p align="left">
+    <a href="https://github.com/guibitten03/iRev.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=guibitten03&repo=iRev&theme=dark&hide_border=trueshow_icons=false" alt="iRev"></a>
+  <p align="left">
+    <a href="https://github.com/NaanVas/irec.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NaanVas&repo=irec&theme=dark&hide_border=trueshow_icons=false" alt="irec"></a>
+  <p align="left">
+    <a href="https://github.com/henriquedalga/horas-ufsj.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=henriquedalga&repo=horas-ufsj&theme=dark&hide_border=trueshow_icons=false" alt="HorasUfsj"></a>
+  <p align="left">
+    <a href="https://github.com/NaanVas/APS.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NaanVas&repo=APS&theme=dark&hide_border=trueshow_icons=false" alt="APS"></a>
+  <p align="left">
+    <a href="https://github.com/NaanVas/Recommender.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NaanVas&repo=Recommender&theme=dark&hide_border=trueshow_icons=false" alt="Recommender"></a>
+</details>
+
