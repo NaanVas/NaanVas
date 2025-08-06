@@ -155,7 +155,7 @@ Me chamo Naan Vasconcelos, tenho 24 anos e sou natural de Minas Gerais. Atualmen
 </p>
 
 <!-- limpa todos os floats para que o details venha abaixo -->
-<div style="clear: both;"></div>
+<div style="clear: both; margin-top: 10px;"></div>
 
 <details open> 
   <summary><h2>📘 Meus Projetos e minhas contribuições</h2></summary>
